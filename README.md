@@ -21,7 +21,7 @@ Olá! Meu nome é Diego Paiva e este é o DiegoLinks, um projeto simples de pág
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/diegolinks.git
+   git clone https://github.com/diiegopaiiva/diegolinks.git
 2. Abra o arquivo 'index.html' em seu navegador favorito.
 
 # Estrutura de Arquivos
